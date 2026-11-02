@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/konnta0/profile_summary_cards/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
